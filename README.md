@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SierraZizzo
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Developing AI in Python for class :)
+- 🌱 I’m currently learning how to develop AI in Python for class :)
 - 💞️ I’m looking to collaborate on anything-- send it my way!
 - 📫 How to reach me? DM
 
